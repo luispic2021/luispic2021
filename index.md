@@ -38,8 +38,8 @@ permalink: /
 
 ### **Prior Experience, Guatemala**
 *2005 - 2013*
-**Independent contractor for GRID20/20 Inc and other startups**
-**Field engineer at last-mile internet ISP using broadband powerline equipment**
+- Independent contractor for GRID20/20 Inc and other startups
+- Field engineer at last-mile internet ISP using broadband powerline equipment
 
 ---
 
