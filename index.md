@@ -3,7 +3,7 @@ layout: home
 title: Luis P Perez
 permalink: /
 ---
-
+<img src="https://media.licdn.com/dms/image/C5603AQFfSKkEzcas1A/profile-displayphoto-shrink_800_800/0/1591676877165?e=1720051200&v=beta&t=fzGpMxVAd0Mq0m9_9Q2Bw-R537E5loxiZDyjHMF-_OQ" alt="Professional Headshot" width="100" />  <!-- Adjust width as needed -->
 ## Experience
 
 ### **Block Inc, San Francisco, CA**
@@ -56,6 +56,11 @@ permalink: /
 ---
 
 ## Contact
-For professional inquiries, please connect with me on 
-[![GitHub](/assets/images/github-mark.png)](https://github.com/luispic2021)
-[![LinkedIn](/assets/images/linkedin-logo.png)](https://www.linkedin.com/in/luispic/)
+
+<a href="https://github.com/luispic2021" target="_blank">
+    <img src="/assets/images/github-logo.png" alt="GitHub" style="height: 40px;">
+</a>
+
+<a href="https://www.linkedin.com/in/luispic/" target="_blank">
+    <img src="/assets/images/linkedin-logo.png" alt="GitHub" style="height: 40px;">
+</a>
