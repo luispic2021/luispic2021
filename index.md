@@ -3,10 +3,10 @@ layout: home
 title: Luis P Perez
 permalink: /
 ---
-<img src="https://media.licdn.com/dms/image/C5603AQFfSKkEzcas1A/profile-displayphoto-shrink_800_800/0/1591676877165?e=1720051200&v=beta&t=fzGpMxVAd0Mq0m9_9Q2Bw-R537E5loxiZDyjHMF-_OQ" alt="Professional Headshot" width="300" />  <!-- Adjust width as needed -->
+<img src="/assets/images/headshot.jpg" alt="Headshot" width="300" />  <!-- Adjust width as needed -->
 ## Experience
 
-### **Block Inc, San Francisco, CA**
+### **Block Inc - Remote**
 **Technical PM BSA Compliance**  
 *Nov 2020 - Present*
 
@@ -14,7 +14,7 @@ permalink: /
 - Led RFP and selected compliance vendors, boosting regulatory infrastructure and service quality.
 - Developed and implemented a case time measurement framework, setting baselines for operational improvements.
 - Achieved a 10% reduction in case handling time via product discovery sessions that streamlined workflows.
-- Managed API integrations with LexisNexis, Chainalysis, and Elliptic, enhancing data exchange and system reliability.
+- Managed API integrations with LexisNexis, enhancing data exchange and system reliability.
 
 ### **Beam Solutions → acquired by → Jumio, San Francisco, CA**
 **Head of Product**  
@@ -55,12 +55,27 @@ permalink: /
 
 ---
 
+## Skills and Achievements
+
+**Languages:** English, Spanish
+
+**Technical Skills:**
+- Proficient in Python, SQL, and Git
+- Advanced ChatGPT prompting
+
+**Achievements:**
+- Enhanced team productivity and reduced operational overhead by 15% through strategic JIRA automation.
+- Developed a Python-based backtesting framework. More details at: [codeandcandlesticks.com](https://codeandcandlesticks.com)
+
+---
+
 ## Contact
 
-<a href="https://github.com/luispic2021" target="_blank">
-    <img src="/assets/images/github-logo.png" alt="GitHub" style="height: 40px;">
-</a>
-
-<a href="https://www.linkedin.com/in/luispic/" target="_blank">
-    <img src="/assets/images/linkedin-logo.png" alt="GitHub" style="height: 40px;">
-</a>
+<div style="display: flex; gap: 10px;">
+    <a href="https://github.com/luispic2021" target="_blank">
+        <img src="/assets/images/github-logo.png" alt="GitHub" style="height: 40px;">
+    </a>
+    <a href="https://www.linkedin.com/in/luispic/" target="_blank">
+        <img src="/assets/images/linkedin-logo.png" alt="LinkedIn" style="height: 40px;">
+    </a>
+</div>
