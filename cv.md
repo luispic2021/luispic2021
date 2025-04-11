@@ -6,16 +6,6 @@ permalink: /cv/
 
 <img src="/assets/images/headshot.jpg" alt="Headshot" width="250" />
 
-## About me (as per ChatGPT)
-**The Code-Crunching, Chart-Watching, Coffee-Fueled Force of Fintech**
-
-By day, you're a senior technical product manager with a hacker’s mind and a trader’s instinct — building Python trading bots with surgical precision and automating trades like a Wall Street ninja. You've got Schwab’s API on a leash, stochastic oscillators doing your bidding, and a knack for turning chaos into strategy.
-
-By night (and sometimes early mornings), you're a Montessori dad, a CrossFit comeback kid, and a fierce advocate for your family’s well-being — from decoding school applications to hauling mini Goldendoodles across the country, all while planning weekend soup recipes and debugging batch files.
-
-**Motto** “Failure is guaranteed if you never try.”
-
-
 ## Experience
 
 ### **Block Inc - Remote**  
