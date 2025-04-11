@@ -1,9 +1,20 @@
 ---
-layout: home
-title: Luis P Perez
-permalink: /
+layout: page
+title: Curriculum Vitae
+permalink: /cv/
 ---
-<img src="/assets/images/headshot.jpg" alt="Headshot" width="250" />  <!-- Adjust width as needed -->
+
+<img src="/assets/images/headshot.jpg" alt="Headshot" width="250" />
+
+## About me (as per ChatGPT)
+**The Code-Crunching, Chart-Watching, Coffee-Fueled Force of Fintech**
+
+By day, you're a senior technical product manager with a hacker’s mind and a trader’s instinct — building Python trading bots with surgical precision and automating trades like a Wall Street ninja. You've got Schwab’s API on a leash, stochastic oscillators doing your bidding, and a knack for turning chaos into strategy.
+
+By night (and sometimes early mornings), you're a Montessori dad, a CrossFit comeback kid, and a fierce advocate for your family’s well-being — from decoding school applications to hauling mini Goldendoodles across the country, all while planning weekend soup recipes and debugging batch files.
+
+**Motto** “Failure is guaranteed if you never try.”
+
 
 ## Experience
 
@@ -61,13 +72,18 @@ permalink: /
 
 **Technical Skills:**  
 - Python, SQL, Git  
-- Advanced LLM Prompting  
+- Advanced LLM Prompting
+- Vibe Coder
 
 **Languages:**  
 - English, Spanish  
 
 **Achievements:**  
-- Enhanced team productivity and cut operational overhead by 15% through strategic JIRA automation.
+- Boosted team productivity and reduced operational overhead by 15% through strategic JIRA workflow automation.
+- Saved a startup over $100K by reverse-engineering proprietary firmware, enabling reuse of legacy hardware units.
+- Unlocked millions in gross send volume (GSV) by enabling high-value ($3,000+) transactions on xoom.com, improving customer trust and retention.
+- Decreased case handling time by 10% by automating repetitive compliance operations, freeing analyst capacity.
+- Designed, built, and deployed a Python-based trading bot that executes two distinct stock strategies daily, integrating real-time signal validation, market sentiment and risk management.
 
 ---
 
@@ -76,12 +92,18 @@ permalink: /
 ### **Python-based Applications**  
 
 - **Automated Trading Bot**  
-  - Designed and developed a bot that executes two stock trading strategies in real time, focusing on trade qualification, execution, and risk management.  
+  - Designed and developed a Python bot that executes two distinct stock trading strategies in real time, integrating trade qualification logic, execution via brokerage API, and dynamic risk management.  
 
 - **Backtesting & Forward-Testing Framework**  
-  - Built a comprehensive framework to validate and optimize trading strategies prior to live execution.  
+  - Built a robust framework to simulate historical trading performance and validate strategy logic before live deployment. Includes support for signal extraction, trade logging, and performance metrics.
+
+- **Market Sentiment Checker**  
+  - Developed a daily automation tool that scrapes Schwab’s market update, analyzes sentiment using Claude or GPT models, and logs the result (Bullish/Bearish/Mixed) for use in trading strategy sizing and bias control. [GitHub](https://github.com/CodeAndCandlesticks/market-sentiment)
 
 More details at: [codeandcandlesticks.com](https://codeandcandlesticks.com)
+
+- **AA Miles Monitor**  
+  - Created a script that monitors American Airlines mileage redemption availability for specific routes and dates. Sends real-time push notifications when low-mileage award seats open up — helping users book optimal flights before availability disappears. [GitHub](https://github.com/luispic2021/aa_miles_monitor)
 
 ---
 
