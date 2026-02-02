@@ -8,7 +8,7 @@ permalink: /cv/
 
 ## Experience
 
-### **Disney Streaming (Disney+) — Paid Sharing Enforcement**
+### **The Walt Disney Company (Disney+/Hulu) — San Francisco, CA**
 **Senior Product Manager**  
 *2025 – Present*  
 
@@ -36,7 +36,7 @@ permalink: /cv/
 - Orchestrated a UX overhaul that improved user engagement by 40% and cut support queries by 20%.
 
 ### **Bluekite → Xoom → PayPal Inc, Guatemala → San Francisco, CA**  
-**Head of Integrations → Sr. Group Product Manager**  
+**Head of Integrations → Senior Group Product Manager**  
 *Apr 2013 - May 2019*  
 
 - Implemented a Risk-Based Experience (RBE) framework that expanded sending limits tenfold.
@@ -71,7 +71,7 @@ permalink: /cv/
 **Technical Skills:**  
 - Python, SQL, Git  
 - Advanced LLM Prompting
-- Vibe Coder
+- Proficient LLM assisted-coder
 
 **Languages:**  
 - English, Spanish  
