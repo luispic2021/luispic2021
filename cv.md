@@ -8,9 +8,17 @@ permalink: /cv/
 
 ## Experience
 
-### **Block Inc - Remote**  
-**Technical PM BSA Compliance**  
-*Nov 2020 - Present*  
+### **Disney Streaming (Disney+) — Paid Sharing Enforcement**
+**Senior Product Manager**  
+*2025 – Present*  
+
+- Product lead for paid sharing enforcement, modernizing detection by introducing ML models into the pipeline and translating risk signals into scalable enforcement and upsell experiences.
+- Own experimentation strategy (A/B, A/n testing) and core metrics (conversion lift, churn, LTV), reducing time-to-learning by ~70% through a predictive OEC metric used for rollout decisions.
+- Drive paid conversion impact at scale across CTV and mobile by balancing enforcement strictness with churn, customer sentiment, and long-term LTV, using data-backed thresholds and phased launches.
+
+### **Block Inc — Remote**
+**Technical PM, BSA / Compliance**  
+*Nov 2020 – 2025*  
 
 - Reduced PEP screening hits by over 90% by optimizing vendor configurations and leveraging advanced data analytics, significantly lowering operational costs while maintaining compliance standards.
 - Led RFP and selection of compliance vendors, strengthening regulatory infrastructure and service quality.
