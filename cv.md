@@ -8,7 +8,7 @@ permalink: /cv/
 
 ## Experience
 
-### **The Walt Disney Company (Disney+/Hulu) — San Francisco, CA**
+### **The Walt Disney Company (Disney+) — San Francisco, CA**
 **Senior Product Manager**  
 *2025 – Present*  
 
