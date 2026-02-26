@@ -11,6 +11,7 @@ permalink: /cv/
 Technical product leader operating at the intersection of ML experimentation, system design, and AI-assisted development. I design modular Python systems deployed to production, build structured A/B experimentation frameworks, and use LLMs (ChatGPT, Gemini, Copilot, Goose) to accelerate architecture design, debugging, SQL analysis, and test generation.  
 
 Experienced translating risk signals into scalable decision systems across fintech, compliance, and real-time execution environments.
+
 ---
 
 ## AI & Technical Systems
@@ -97,6 +98,8 @@ Universidad Galileo
 
 **Product Management & Leadership Workshop**  
 SVPG (Silicon Valley Product Group)
+
+---
 
 ## Contact
 
