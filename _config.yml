@@ -1,40 +1,45 @@
-# Welcome to Jekyll!
-#
-
-# Site settings
-title: Luis P Perez
+title: Luis P. Perez
+tagline: Technical Product Leader — AI/ML, Data, Compliance & Risk, Fintech
 email: luispe at gmail
 description: >-
-  Technologist passionate for creating products that customers love. Dad, foodie, traveler, stock trader.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://luispe.me" # the base hostname & protocol for your site
+  Luis P. Perez is a technical product leader with experience building risk
+  decisioning, compliance technology, ML-powered products, and foundational
+  data products, now extending that background into GenAI and context engineering.
+baseurl: ""
+url: "https://luispe.me"
+lang: en_US
+author:
+  name: Luis P. Perez
 
-# Social Media Settings
-github_username:  luispic2021
+github_username: luispic2021
 github_organization: CodeAndCandlesticks
 linkedin_url: https://www.linkedin.com/in/luispic/
+databricks_credential_url: "https://credentials.databricks.com/8383ad79-b820-4f3d-952a-7aa5bfd524ac#acc.gyeK3YXW"
 
-# Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: Luis P. Perez
+      image: /assets/images/og-card.png
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og-card.png
+
+exclude:
+  - CHANGELOG.md
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

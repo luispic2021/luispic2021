@@ -1,0 +1,22 @@
+<header class="site-header">
+  <div class="shell header-inner">
+    <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Luis P. Perez — home">
+      <span class="wordmark-name">Luis P. Perez</span>
+      <span class="wordmark-role">Technical Product Leader</span>
+    </a>
+
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+      <span class="sr-only">Toggle navigation</span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </button>
+
+    <nav class="site-nav" id="site-nav" aria-label="Primary navigation">
+      <a href="{{ '/#impact' | relative_url }}">Impact</a>
+      <a href="{{ '/#experience' | relative_url }}">Experience</a>
+      <a href="{{ '/#builder' | relative_url }}">Builder</a>
+      <a href="{{ '/posts/' | relative_url }}">Posts</a>
+      <a class="nav-contact" href="{{ site.linkedin_url }}" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
+    </nav>
+  </div>
+</header>

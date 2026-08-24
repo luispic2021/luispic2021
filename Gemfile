@@ -13,6 +13,10 @@ gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 231", group: :jekyll_plugins
+# Ruby 3.4 no longer ships CSV as a default gem; Jekyll 3 still requires it.
+gem "csv", "~> 3.3"
+# Ruby 3+ no longer ships WEBrick in the standard library; Jekyll uses it locally.
+gem "webrick", "~> 1.9"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"

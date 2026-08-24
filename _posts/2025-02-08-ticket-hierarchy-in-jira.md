@@ -3,6 +3,7 @@ layout: post
 title: "Ticket Hierarchy in JIRA"
 date: 2025-02-08
 categories: product-management agile
+description: How I organize epics, stories, bugs, tasks, and subtasks to keep product development clear and adaptable.
 ---
 
 ## Defining Ticket Hierarchy in JIRA

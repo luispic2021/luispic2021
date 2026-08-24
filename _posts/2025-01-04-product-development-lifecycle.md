@@ -3,6 +3,7 @@ layout: post
 title: "Product Development Lifecycle"
 date: 2025-01-04
 categories: product-management agile
+description: A practical Build → Measure → Learn workflow for structuring product development, testing, deployment, and iteration.
 ---
 
 ## Product Development Lifecycle

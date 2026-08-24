@@ -1,0 +1,18 @@
+---
+layout: page
+title: Posts
+eyebrow: Notes from the workbench
+description: Writing about technical product craft, experimentation, automated trading systems, and lessons learned while building.
+permalink: /posts/
+---
+
+<div class="posts-grid">
+  {% for post in site.posts %}
+    <a class="post-card" href="{{ post.url | relative_url }}">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      <span class="read-more">Read post →</span>
+    </a>
+  {% endfor %}
+</div>

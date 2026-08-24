@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article class="post shell">
+  <header class="post-header">
+    <a class="back-link" href="{{ '/posts/' | relative_url }}">← All posts</a>
+    <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.categories.size > 0 %} · {{ page.categories | join: " / " }}{% endif %}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="page-deck">{{ page.description }}</p>{% endif %}
+  </header>
+  <div class="prose post-content">
+    {{ content }}
+  </div>
+</article>
