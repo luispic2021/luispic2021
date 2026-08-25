@@ -1,5 +1,29 @@
 # Changelog
 
+## v2.1.0 — 2026-08-24
+
+### Added
+
+- “One Strategy, Two Accounts, Zero Silent Fallbacks.”
+- “From Disk to S3: A Safer Trade-Journal Pipeline.”
+- “The Trail Wasn’t the Only Problem.”
+- “Teaching My Backtester Which Trades Not to Take.”
+- “When My Backtest Changed Its Mind.”
+- “A Backtest Needs Two IDs.”
+- “A Kill Switch That Doesn’t Abandon the Trade.”
+- “The Bot That Walked Away.”
+- “The Stop That Could Never Fire.”
+- Public-safe treatment of automated trading experiments that distinguishes backtests, paper tests, live behavior, hypotheses, and confirmed implementation changes.
+
+### Improved
+
+- Expanded the homepage posts section to surface all nine new articles while retaining the complete archive at `/posts/`.
+- Added educational, non-investment-advice notes to posts discussing trading systems, strategies, or results.
+
+### Fixed
+
+- Reconciled an early spread hypothesis with the later tick-replay evidence so the two backtest articles present the investigation in chronological order.
+
 ## v2.0.0 — 2026-08-23
 
 ### Added
