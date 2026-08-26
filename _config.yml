@@ -38,6 +38,7 @@ defaults:
       image: /assets/images/og-card.png
 
 exclude:
+  - AGENTS.md
   - CHANGELOG.md
   - Gemfile
   - Gemfile.lock
