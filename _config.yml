@@ -7,12 +7,11 @@ description: >-
   data products, now extending that background into GenAI and context engineering.
 baseurl: ""
 url: "https://luispe.me"
-lang: en_US
+lang: en-US
 author:
   name: Luis P. Perez
 
 github_username: luispic2021
-github_organization: CodeAndCandlesticks
 linkedin_url: https://www.linkedin.com/in/luispic/
 databricks_credential_url: "https://credentials.databricks.com/8383ad79-b820-4f3d-952a-7aa5bfd524ac#acc.gyeK3YXW"
 
@@ -22,7 +21,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-permalink: /:categories/:year/:month/:day/:title:output_ext
+permalink: /:year/:month/:day/:title:output_ext
 
 defaults:
   - scope:
@@ -38,6 +37,7 @@ defaults:
       image: /assets/images/og-card.png
 
 exclude:
+  - AGENTS.md
   - CHANGELOG.md
   - Gemfile
   - Gemfile.lock
