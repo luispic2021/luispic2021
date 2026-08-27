@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.2.0 — 2026-08-27
+
+### Improved
+
+- Trimmed homepage length and repetition: experience rows and leadership tightened to single sentences, impact cards reduced from six to three, and the GenAI-calibration disclaimer and Databricks credential mention deduplicated to one instance each.
+
 ## v2.1.0 — 2026-08-24
 
 ### Added
