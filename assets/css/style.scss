@@ -255,7 +255,7 @@ button, input { font: inherit; }
 
 .impact-grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 1rem; }
 .impact-card { grid-column: span 4; min-height: 330px; display: flex; flex-direction: column; padding: 1.6rem; background: #182830; border: 1px solid rgba(255,255,255,.1); border-radius: var(--radius); }
-.impact-card:nth-child(1), .impact-card:nth-child(6) { background: #1d3038; }
+.impact-card:nth-child(2) { background: #1d3038; }
 .impact-card .card-number { color: var(--lime); font-family: var(--mono); font-size: .7rem; }
 .impact-card h3 { margin: auto 0 .85rem; font-size: 1.45rem; line-height: 1.2; letter-spacing: -.025em; }
 .impact-card p { margin: 0; color: #aebbbe; font-size: .9rem; }
